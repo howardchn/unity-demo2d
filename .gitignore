@@ -1,0 +1,7 @@
+Logs/
+Temp/
+obj/
+
+.DS_Store
+.idea/
+.vs/
